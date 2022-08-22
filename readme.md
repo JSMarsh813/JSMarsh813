@@ -3,6 +3,9 @@ Hi there 👋
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
 Here are some quick things about me:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JSMarsh813&theme=tokyonight)](https://git.io/streak-stats)
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width: 100%;" width="40" height="40">
