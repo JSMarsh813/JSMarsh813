@@ -22,3 +22,11 @@ Here are some quick things about me:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width: 100%;" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/97814431/170081210-73593c53-48ce-4ad1-bd96-d370c124cc2c.png" alt="express" style="max-width: 100%;" width="90" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="GIMP" style="max-width: 100%;" width="40" height="40">
+
+<h3>30 Nites Of Code with <a href="https://codedex.io" target="_blank">Codédex</a>!</h3>
+
+Currently doing the
+**#30NitesOfCode:**
+[Check out my progress](https://codedex.io/@janetspell68760/30-nites-of-code)  
+
+![@choisauce #30NitesOfCode](https://codedex.io/api/petStatus?user=janetspell68760)
