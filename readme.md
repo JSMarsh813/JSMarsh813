@@ -2,7 +2,7 @@ Hi there 👋
 
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
-Here are some quick things about me:
+Some quick things about me:
 
 🌴: I live in Southern California.
 
