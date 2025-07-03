@@ -6,8 +6,6 @@ Some quick things about me:
 
 🌴: I live in Southern California.
 
-💼 : Besides software Engineering, I've worked in a variety of industries: healthcare, hospitality and animal welfare.
-
 🧜‍♀️: I love anything fantasy you name it: books, movie, novels, ect.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JSMarsh813&theme=tokyonight)](https://git.io/streak-stats)
